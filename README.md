@@ -4,6 +4,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a SaaS project
 - 🌱 I’m currently learning JavaScript & its frameworks, Web Development and Cloud Computing.
 - 👯 I’m looking to collaborate on Web App development.
-- 📫 How to reach me: Direct message on Twitter: @AmeyaGore_ . Connect on LinkedIn: Linkedin.com/in/ameya-gore
+- 📫 How to reach me: Direct message on Twitter: twitter.com/ameyaamolgore . Connect on LinkedIn: linkedin.com/in/ameyaamolgore
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: Got into the world of tech in 2020. Currently 16 years old. Daily insightful articles on Medium.com/@ameyagore_
+- ⚡ Fun fact: Got into the world of tech in 2020. Currently 16 years old. 
